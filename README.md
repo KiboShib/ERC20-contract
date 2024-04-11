@@ -22,6 +22,8 @@ Ethereum CA: 0x02e7F808990638E9e67E1f00313037EDe2362361
 
 Arbitrum CA: 0xf525e73bdeb4ac1b0e741af3ed8a8cbb43ab0756
 
+Base CA: 0xC7DcCA0a3e69bD762C8DB257f868f76Be36c8514
+
 Website: https://kiboshib.com
 
 X: https://x.com/kiboshib
